@@ -1,3 +1,16 @@
+---
+title: "Working with or manipulating strings with Python"
+status: "published"
+subtitle: "String concatenation is the Web Developer's bread and butter, our job is to concatenate strings to create HTML/CSS documents programmatically"
+authors: ["alesanchezr"]
+cover_local: "../../assets/images/4cc6fa0b-2530-4052-aa7e-8dac03788ac3.png"
+textColor: "white"
+date: "2020-10-19T16:36:31+00:00"
+syntaxis: ["python"]
+tags: ["python","string-concatenation"]
+
+---
+
 # Hello World with React boilerplate
 <p>
   <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
